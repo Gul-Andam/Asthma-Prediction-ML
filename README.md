@@ -17,8 +17,13 @@ This project focuses on predicting asthma using clinical and demographic data th
 ## 📊 Results
 
 * Accuracy: **97%**
+<img width="693" height="538" alt="asthma 3" src="https://github.com/user-attachments/assets/df344ab6-c2be-4d28-8707-8689666636cc" />
+
+  
 * AUC Score: **0.98**
 * High Precision, Recall, and F1-score
+<img width="698" height="595" alt="asthma10" src="https://github.com/user-attachments/assets/11c4f6b8-4d5f-4718-a3c2-02aa659a889a" />
+
 
 ---
 
