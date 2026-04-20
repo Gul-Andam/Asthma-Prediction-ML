@@ -26,6 +26,9 @@ This project focuses on predicting asthma using clinical and demographic data th
 
 SHAP (Shapley Additive Explanations) was used to interpret model predictions and understand feature importance such as BMI, FEV1, and FVC.
 
+<img width="668" height="488" alt="SHAP" src="https://github.com/user-attachments/assets/6a8ff3f6-9e7e-47a5-a67a-083b8883239b" />
+
+
 ---
 
 ## 📈 Visual Results
