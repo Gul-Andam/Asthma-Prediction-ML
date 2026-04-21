@@ -6,6 +6,10 @@ This project focuses on predicting asthma using clinical and demographic data th
 
 ---
 
+## 📌Problem Statement
+
+Asthma diagnosis often depends on clinical judgment and may lead to delayed or inaccurate detection. This project addresses the need for an accurate and interpretable machine learning-based system that can analyze patient data and predict asthma effectively using advanced models like Random Forest and XGBoost.
+
 ## ⚙️ Models Used
 
 * Random Forest (Best Performing)
